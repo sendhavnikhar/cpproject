@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456456648415",
+    "project_id": "nikhardatabase",
+    "storage_bucket": "nikhardatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456456648415:android:f4f50574b7637034db1b6a",
+        "android_client_info": {
+          "package_name": "com.example.linkchat_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456456648415-su5os2arpmfdpevebbqkhb88jr2brtv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmGD4p8J6nVxGC0FM0TYkfCxdaqyDsnzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456456648415-su5os2arpmfdpevebbqkhb88jr2brtv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
